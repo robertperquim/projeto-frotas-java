@@ -22,6 +22,5 @@ Acompanhe o desafiio proposto: [Projeto proposto - Geração Caldeira](https://g
 
 ### Participantes
 
-![image](https://github.com/vitozs/projeto-frotas-java/assets/113685735/931c41c1-0b38-4f3f-9fad-8a4ab36abd25)
 
 - [Gabriel Kretzmann](https://github.com/Kretzmann01), [Iago Cappeletti](https://github.com/IagoCappeletti), [Moises Briceño](https://github.com/moises-briceno-medina), [Robert Perquim](https://github.com/robertperquim), [Vitor Nunes Chagas](https://github.com/vitozs)
